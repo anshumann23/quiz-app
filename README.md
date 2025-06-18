@@ -22,3 +22,15 @@ This is a simple and interactive quiz application built using HTML, CSS, and Jav
 ## Author
 
 [Anshuman Sharma](https://github.com/anshumann23)
+
+## Deployment
+
+This project can be deployed on various platforms including:
+
+- **AWS S3 + CloudFront** for static site hosting
+- **GitHub Pages** (for quick demo)
+- **Netlify** or **Vercel** for CI/CD support
+
+> I have experience deploying static websites using **Amazon S3**, configuring **CloudFront** for global CDN, and managing **custom domains** with **Route 53**.
+
+
